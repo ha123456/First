@@ -1,0 +1,28 @@
+package pojo;
+
+public class classes {
+	private int id;
+	private String cname;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getCname() {
+		return cname;
+	}
+
+	public void setCname(String cname) {
+		this.cname = cname;
+	}
+
+	public classes() {
+		super();
+		
+	}
+
+}
